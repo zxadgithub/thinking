@@ -1,4 +1,4 @@
-package zxa.io.dir;
+package io.dir.list;
 
 import java.io.File;
 import java.io.FilenameFilter;
